@@ -9,7 +9,7 @@ AI_TEXT_MODEL = 'gpt-4o-mini'
 BOT_TOKEN_NAME = "ATHE_BOT_TOKEN"
 BOT_TOKEN = os.environ.get(BOT_TOKEN_NAME)
 # CHAT_ID = -1002374309134
-CHAT_ID = '@conscious_parent_the'
+CHAT_ID = '@conscious_mother_the'
 
 def job(parent, child):
     client = OpenAI()
